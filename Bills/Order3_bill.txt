@@ -1,0 +1,9 @@
+BILL
+Order ID: 3
+Table: 2
+
+PRODUCTS:
+Ciorba vita		 13.5 lei
+Piept pui		 12.5 lei
+Cartofi prajiti		 5.5 lei
+TOTAL: 31.5

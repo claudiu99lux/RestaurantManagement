@@ -1,0 +1,9 @@
+BILL
+Order ID: 2
+Table: 7
+
+PRODUCTS:
+Meniu pranz		 23.0 lei
+Salata varza		 6.0 lei
+Salata varza		 6.0 lei
+TOTAL: 35.0

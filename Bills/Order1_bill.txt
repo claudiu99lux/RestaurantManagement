@@ -1,0 +1,8 @@
+BILL
+Order ID: 1
+Table: 5
+
+PRODUCTS:
+Cartofi prajiti		 5.5 lei
+Ciorba vita		 13.5 lei
+TOTAL: 19.0
